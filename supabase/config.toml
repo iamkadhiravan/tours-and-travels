@@ -1,0 +1,7 @@
+project_id = "hprheevajpqeesectfnl"
+
+[functions.send-welcome]
+verify_jwt = false
+
+[functions.send-booking]
+verify_jwt = false
